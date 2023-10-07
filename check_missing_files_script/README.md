@@ -56,7 +56,7 @@ Contributions to this script are welcome. If you have any improvements or sugges
 
 ## License
 
-This script is open-sourced under the [MIT License](https://github.com/Edrees1995/Pyhton-Scripts/blob/main/LICENSE). You are free to use and modify it as needed.
+This script is open-sourced under the [MIT License](https://github.com/Edrees1995/Pyhton-Scripts/blob/master/LICENSE.md). You are free to use and modify it as needed.
 
 
 
