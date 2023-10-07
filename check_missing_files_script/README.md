@@ -56,7 +56,8 @@ Contributions to this script are welcome. If you have any improvements or sugges
 
 ## License
 
-This script is open-sourced under the [MIT License](LICENSE.md). You are free to use and modify it as needed.
+This script is open-sourced under the [MIT License](https://github.com/Edrees1995/Pyhton-Scripts/blob/main/LICENSE). You are free to use and modify it as needed.
+
 
 
 This README file provides instructions on installing and using your "check_missing_files.py" script, includes an example, and mentions how others can contribute or report issues. Please replace "/path/to/your/folder" with the actual path to the folder you want to check for missing files.
